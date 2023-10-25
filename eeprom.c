@@ -1,6 +1,6 @@
 #include <xc.h>
 #include "configs.h"
-#include "EmbeddedFunctions.h"
+#include "eeprom.h"
 
 void show_trys(char count);
 
